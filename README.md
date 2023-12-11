@@ -6,9 +6,22 @@
 </p>
 <h2 align="left">About me:</h2>
 <p align="left">
-  👩‍💻 Backend Developer with more than two years of experience <br />
+  👩‍💻 Junior Web Developer <br />
   📚 Currently focused on developing web applications and improving tech skills<br />
   📌 Ready for cooperation
+</p>
+<h2 align="left">Latest projects</h2>
+<p align="left">
+  <a href="https://larazillow.toptools.fun" target="_blank">Visit site</a> |
+  <a href="https://github.com/bodik2836/larazillow">GitHub</a> <br />
+  <b>LaraZillow</b> <br />
+  This is a real estate listing web application. <br />
+</p>
+<p align="left">
+  <a href="https://weather.toptools.fun" target="_blank">Visit site</a> |
+  <a href="https://github.com/bodik2836/weather">GitHub</a> <br />
+  <b>Weather</b> <br />
+  Simple project for get basic weather information. <br />
 </p>
 <h2 align="left">Languages and Tools:</h2>
 <div>
