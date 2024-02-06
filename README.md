@@ -33,14 +33,14 @@
         height="40"
       />&nbsp;
     <img
-        src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg"
+        src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg"
         title="MySQL"
         alt="MySQL"
         width="40"
         height="40"
     />&nbsp;
     <img
-        src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg"
+        src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original-wordmark.svg"
         title="Laravel"
         alt="Laravel"
         width="40"
@@ -68,7 +68,7 @@
         height="40"
     />&nbsp;
     <img
-        src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg"
+        src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg"
         title="Tailwindcss"
         alt="Tailwindcss"
         width="40"
